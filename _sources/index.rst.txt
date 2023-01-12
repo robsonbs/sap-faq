@@ -72,12 +72,12 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/soupescadorepossuooutroempregopossoterumalicencadepescadorprofissional
    _perguntasdafaq/outrapessoapodesolicitarmeucadastramentoourecadastramento
    _perguntasdafaq/souobrigadoprecisomefiliaroupediracoloniasindicatoouassociacaoparasolicitarminhacarteirinhadepescadorprofissional
-   _perguntasdafaq/eusourepresentantedeentidadecolaboradorasindicatoscoloniasassociacoesdepescapossosolicitarotreinamentoparaorientarospescadoressobreocadastramentoerecadastramento
+   
 
 .. raw:: html
 
    </div>
-   <h3>ALTEAÇÃO DE CADASTRO</h3>
+   <h3>ALTERAÇÃO DE CADASTRO</h3>
    <div>
    
 .. toctree::
@@ -85,7 +85,9 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: ALTERAÇÃO DE CADASTRO
    
    _perguntasdafaq/comofacoparaalterarcorrigirmeucadastrononovosisrgp40
-   
+   _perguntasdafaq/possotrocaroe-mailderecebimento
+   _perguntasdafaq/envieiafotoerradacomofacoparacorrigir
+   _perguntasdafaq/querotrocarotipoderegistroporexemplosoliciteiregistroinicialmaseraregistrocomprotocolocomofaco.rst
    
 .. raw:: html
 
@@ -134,6 +136,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: RECURSO ADMINISTRATIVO
    
    _perguntasdafaq/qualprazopararecursoadministrativo
+   _perguntasdafaq/comofacoparaenviarumrecursoadministrativo
    
 .. raw:: html
 
@@ -150,10 +153,22 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/precisomefiliaroupediracoloniasindicatoouassociacaoparasolicitararminhacarteirinhadepescadorprofissional
    _perguntasdafaq/precisoirateasuperintendenciadoestadoondemoroparasolicitaraminhalicencadepescadorprofissional
    _perguntasdafaq/quandominhalicençaparaaprovadapossoimprimiremqualquerlugareusarqualquertipodepapel
-   _perguntasdafaq/possotrocaroe-mailderecebimento
+   
    
 .. raw:: html
 
+   </div>
+   <h3>IMPRESSÃO DE LICENÇA</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: IMPRESSÃO DE LICENÇA
+   
+   _perguntasdafaq/comoimprimirminhalicencadepescadorprofissional
+.. raw:: html
+ 
+ 
    </div>
    <h3>CANCELAMENTO DE CARTEIRINHA DE PESCADOR</h3>
    <div>
@@ -163,6 +178,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :caption: CANCELAMENTO DE CARTEIRINHA DE PESCADOR
    
    _perguntasdafaq/comosolicitoocancelamentodeminhalicencadepesca
+   _perguntasdafaq/temcomoreativarregistrosdecancelados
    
 .. raw:: html
 
@@ -199,7 +215,7 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    :maxdepth: 1
    :caption: CRUZAMENTO DE DADOS
    
-   _perguntasdafaq/comoéocruzamentodedadosqueonovosistemasisrgp40fazcomocadastrobasicodocidadaocbccomareceitafederaloutrosorgaos
+   _perguntasdafaq/comoeocruzamentodedadosqueonovosistemasisrgp40fazcomocadastrobasicodocidadaocbccomareceitafederaleoutrosorgaos.rst
    
 .. raw:: html
 
@@ -220,17 +236,6 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/quandoosegurodefesoesuspenso
    _perguntasdafaq/tenhoduvidasouquerofazerumadenunciasobreosegurodefeso
    
-.. raw:: html
-
-   </div>
-   <h3>CANCELAMENTO DE REGISTRO DE PESCADOR PROFISSIONAL</h3>
-   <div>
-   
-.. toctree::
-   :maxdepth: 1
-   :caption: CANCELAMENTO DE REGISTRO DE PESCADOR PROFISSIONAL
-   
-   _perguntasdafaq/temcomoreativarregistrosdecancelados
    
 .. raw:: html
 
@@ -262,3 +267,20 @@ Perguntas/Dúvidas frequentes SAP/MAPA
    _perguntasdafaq/centraldeatendimentoparainformacoessobreoregistrodepescadorprofissional
    _perguntasdafaq/paraduvidascomrelacaoaoregistrodepescadorprofissionalrgpentreemcontatocomnossoscanaisdeatendimento
    _perguntasdafaq/telefonesdassuperintendenciasfederaisdeagricultura
+   
+.. raw:: html
+
+   </div>
+   <h3>TREINAMENTOS E MATERIAIS</h3>
+   <div>
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: TREINAMENTOS E MATERIAIS
+   
+   _perguntasdafaq/eusourepresentantedeentidadecolaboradorasindicatoscoloniasassociacoesdepescapossosolicitarotreinamentoparaorientarospescadoressobreocadastramentoerecadastramento
+   _perguntasdafaq/treinamentosemateriaisparaestudo
+
+.. raw:: html
+
+   </div>
