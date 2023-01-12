@@ -1,24 +1,5 @@
-Eu sou representante de entidade colaboradora (Sindicatos/Colônias/Associações de Pesca) posso solicitar o treinamento para orientar os pescadores sobre o cadastramento e recadastramento.
-=========
-
-SIM.
-
-Informamos que no modelo atual de capacitação nossa equipe disponibilizará um fórum online por meio de videoconferência, o qual terá como escopo o esclarecimento de dúvidas acerca dos seguintes tópicos:
-
-a) Portaria nº 265, de 29 de junho de 2021 |link1|_;
-
-b) Portaria nº 270 de 29 de junho de 2021 |link2|_;
-
-c) Portaria nº 1.099 de 29 de junho de 2022 |link3|_;
-
-d) Portaria nº 1.100 de 30 de junho de 2022 |link4|_;
-
-e) Portaria SAP/MAPA nº 516, de 31 de dezembro de 2021 |link5|_
-
-f) SisRGP opções de: Recadastramento, Registro Inicial, Registro com protocolo e REAP.
-
-
-**INFORMAÇÕES/MATERIAIS PARA ESTUDO ANTES DO FÓRUM**
+Treinamentos e materiais para estudo
+========
 
 **- Senha GOV.BR**
 
